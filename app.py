@@ -36,11 +36,8 @@ def load_modules():
 # --- INICIALIZAR EL MODELO ---
 texto_base_datos = load_modules()
 
-# Usamos el modelo flash que es rapidísimo y excelente para texto
-model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
-    system_instruction=texto_base_datos # Le inyectamos todo tu conocimiento como instrucción de sistema
-)
+# Usamos la versión base infalible sin especificar subversiones
+model = genai.GenerativeModel(model_name="gemini-pro")
 
 # --- CAJA DE TEXTO PARA EL USUARIO ---
 input_usuario = st.text_area("Diagnósticos de entrada:", height=150, placeholder="Ej: TCE, hematoma subdural derecho, normal...")
@@ -51,12 +48,15 @@ if st.button("Generar Reporte", type="primary"):
     else:
         with st.spinner("Procesando reporte con criterios puristas..."):
             try:
-                # Enviamos el input al modelo
-                respuesta = model.generate_content(input_usuario)
+                # Unimos el "Cerebro" (los 5 módulos) con lo que escribiste en la caja
+                prompt_maestro = f"{texto_base_datos}\n\n[INPUT DEL USUARIO]\n{input_usuario}"
+                
+                # Enviamos todo al modelo
+                respuesta = model.generate_content(prompt_maestro)
                 
                 st.success("¡Reporte generado con éxito!")
                 
-                # Mostramos el resultado en una caja de texto para que sea fácil de copiar
+                # Mostramos el resultado en una caja de texto
                 st.text_area("Cuerpo del Informe:", value=respuesta.text, height=300)
                 
             except Exception as e:
