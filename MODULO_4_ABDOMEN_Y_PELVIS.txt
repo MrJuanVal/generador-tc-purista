@@ -1,0 +1,99 @@
+# [MÓDULO 4: ABDOMEN, PELVIS Y VÍAS URINARIAS (DEPURADO Y PURISTA)]
+
+#### 1. HÍGADO Y VÍAS BILIARES
+* **Esteatosis Hepática:** `Hígado: Se observa heterogéneo por la presencia de una disminución difusa de la atenuación de su parénquima (menor a 40 UH), mostrando una inversión en la relación de densidad fisiológica con respecto al bazo.`
+* **Hemosiderosis Hepática:** `Hígado: Se observa heterogéneo por la presencia de un marcado aumento difuso de la atenuación del parénquima (promedio de 80 UH), mostrándose hiperdenso respecto a la musculatura paravertebral y a la sangre circulante.`
+* **Hepatopatía Crónica/Cirrosis:** `Hígado: Se observa heterogéneo por la presencia de bordes lobulados, con hipertrofia del lóbulo caudado, atrofia del lóbulo derecho y ensanchamiento del espacio periportal.`
+* **Hemangioma Hepático:** `Hígado: Se observa heterogéneo por la presencia de imagen hipodensa en fase simple, la cual presenta un realce nodular periférico discontinuo en fase arterial y llenado centrípeto progresivo en fases tardías.`
+* **Lesión Focal Hepática:** `Hígado: Se observa heterogéneo por la presencia de [múltiples] imagen(es) hipodensa(s) de forma [ovalada/redondeada], bordes [definidos/mal definidos], con un coeficiente de atenuación de [X] UH.`
+* **Hepatomegalia:** `Hígado: Se observa heterogéneo por la presencia de un aumento en su forma y tamaño en su eje longitudinal midiendo [X] cm.`
+* **Quiste Hepático:** `Hígado: Se observa heterogéneo por la presencia de imagen hipodensa de forma redondeada, paredes imperceptibles, bordes definidos y coeficiente de atenuación líquido (0-10 UH), sin realce tras la administración de contraste.`
+* **Laceración Hepática:** `Hígado: Se observa heterogéneo por la presencia de imágenes hipodensas de morfología lineal o ramificada que alcanzan la cápsula hepática, involucrando los segmentos [X, Y], asociadas a líquido libre perilesional.`
+* **Colelitiasis / Litiasis Vesicular:** `Vesícula y Vías Biliares: Se observa heterogénea por la presencia en su interior de imágenes hiperdensas en rango cálcico, de formas irregulares y bordes definidos, que proyectan sombra acústica posterior.`
+* **Colecistitis Aguda:** `Vesícula y Vías Biliares: Se observa ocupada por líquido, con aumento de su diámetro transverso y engrosamiento difuso de sus paredes midiendo más de 3 mm, asociado a la presencia de líquido libre perivesicular y estriación de la grasa adyacente.`
+* **Barro Biliar:** `Vesícula y Vías Biliares: Se observa ocupada por material con densidad superior a la bilis, de disposición declive y sin proyección de sombra acústica posterior, formando un nivel líquido-líquido.`
+* **Vesícula en Porcelana:** `Vesícula y Vías Biliares: Se observa heterogénea por la presencia de calcificación lineal y difusa de sus paredes.`
+* **Vesícula Bilobulada / Septada:** `Vesícula y Vías Biliares: Se observa alteración de la morfología vesicular caracterizada por la presencia de un septo o tabique focal que divide su luz, adquiriendo un aspecto bilobulado como variante anatómica.`
+* **Paredes Engrosadas (Vesícula):** `Vesícula y Vías Biliares: Se observa heterogénea por engrosamiento concéntrico de sus paredes, midiendo estas más de 3 mm.`
+* **Hepatización Vesicular:** `Vesícula y Vías Biliares: Vesícula biliar evidenciándose con contenido heterogéneo y denso en su interior, con atenuación similar al parénquima hepático adyacente.`
+* **Hidrops Vesicular:** `Vesícula y Vías Biliares: Vesícula biliar evidenciándose sobretendida, aumentada de tamaño midiendo en longitudinal [X] cm y más de 4 cm en transversal, sin claro engrosamiento parietal.`
+* **Coledocolitiasis:** `Vesícula y Vías Biliares: Colédoco heterogéneo con la presencia de imagen hiperdensa de densidad cálcica a nivel de su porción distal, condicionando dilatación de la vía biliar intra y extrahepática.`
+* **Clips Quirúrgicos (Colecistectomía):** `Vesícula y Vías Biliares: Vesícula biliar ausente. Se observa imagen hiperdensa, densidad metal, de forma y tamaño variable y bordes definidos en lecho vesicular.`
+
+#### 2. BAZO Y PÁNCREAS
+* **Esplenomegalia:** `Bazo: Se observa heterogéneo por la presencia de un aumento en su forma y tamaño midiendo [X] cm en su eje longitudinal [y condicionando compresión del riñón ipsilateral].`
+* **Bazo Accesorio:** `Cavidad abdominal: Se observa(n) adyacente al bazo imagen(es) de morfología redondeada, de bordes definidos y densidad similar al parénquima esplénico, en proximidad al hilio esplénico [midiendo la mayor X x Y cm].`
+* **Calcificaciones Esplénicas:** `Bazo: Se observa heterogéneo por la presencia en su interior de múltiples imágenes hiperdensas rango calcio, puntiformes y de bordes definidos.`
+* **Lesión Focal Esplénica:** `Bazo: Se observa heterogéneo por la presencia de múltiples imágenes hipodensas de forma y tamaño variable, bordes mal definidos, con un coeficiente de atenuación de [X] UH.`
+* **Hepatoesplenomegalia:** `Hígado y Bazo: Hígado aumentado de tamaño en su eje longitudinal midiendo [X] cm. Bazo aumentado de tamaño en su eje longitudinal midiendo [Y] cm.`
+* **Calcificaciones Pancreáticas:** `Páncreas: Se observa heterogéneo por la presencia de imágenes hiperdensas de densidad cálcica a nivel de [cabeza/cuerpo/cola].`
+* **Pancreatitis Crónica:** `Páncreas: Se observa heterogéneo por la presencia de múltiples imágenes hiperdensas de densidad calcio distribuidas de forma dispersa en el parénquima, asociadas a disminución del grosor y atrofia glandular.`
+* **Pancreatitis Aguda sobre Crónica:** `Páncreas: Se observa heterogéneo por la presencia de atrofia glandular y múltiples calcificaciones parenquimatosas, asociado a desflecamiento de sus bordes, disminución focal de la densidad y estriación de la grasa peripancreática adyacente.`
+* **Masa Pancreática (LOE):** `Páncreas: Se observa heterogéneo por la presencia a nivel de [cabeza/cuerpo/cola] de una imagen de aspecto sólido, isodensa a las partes blandas con coeficiente de atenuación de [X] UH, con imágenes hipodensas en su interior, de forma irregular y bordes mal definidos, midiendo [MEDIDAS].`
+* **Pancreatitis (Balthazar B):** `Páncreas: Se observa heterogéneo por la presencia de un aumento difuso de su diámetro a nivel de [cabeza/cuerpo/cola], de contornos regulares y con realce conservado, sin colecciones peripancreáticas evidentes.`
+
+#### 3. RIÑONES Y VÍAS URINARIAS (BLOQUE CRÍTICO)
+* **Litiasis Renal:** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia en el interior del sistema colector de imagen hiperdensa de densidad cálcica, de morfología puntiforme y bordes definidos, con coeficiente de atenuación de [X] UH, midiendo [X] mm.`
+* **Quiste Renal (Simple / Bosniak I):** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia de imagen hipodensa con coeficiente de atenuación líquido (0-20 UH), de forma redondeada, bordes definidos y paredes imperceptibles, sin realce al medio de contraste, midiendo [X] cm.`
+* **Hemangioma / Angiomiolipoma Renal:** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia a nivel cortical de imagen hiperdensa en fase simple, de forma ovalada, con áreas de atenuación en rango graso (-20 a -80 UH) y bordes parcialmente definidos.`
+* **Hidronefrosis:** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia de dilatación de la pelvis renal y de los cálices mayores [y menores], con adelgazamiento del parénquima cortical asociado.`
+* **Ectasia Renal:** `Riñones: [Derecho/Izquierdo] se observa heterogéneo por la presencia de una leve dilatación de la pelvis renal, sin dilatación calicial evidente.`
+* **Pelvis Extrarrenal:** `Riñones: Se observa protrusión de la pelvis renal fuera del contorno del seno renal como variante anatómica.`
+* **Ureterohidronefrosis:** `Riñones y uréteres: Se evidencia dilatación de la pelvis renal, de los cálices y del uréter [derecho/izquierdo] en su trayecto [proximal/medio/distal].`
+* **Poliquistosis Renal:** `Riñones: Se observa heterogéneo por la presencia de múltiples y confluentes imágenes quísticas hipodensas de tamaños variables que condicionan marcado aumento del tamaño renal, alteración de la morfología y pérdida de la relación corticomedular.`
+* **Cambios Inflamatorios Perirrenales:** `Riñones: Se observa estriación, tractos densos y aumento de la densidad de la grasa perirrenal [bilateral/derecha/izquierda].`
+* **Atrofia Renal:** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia de disminución global de su tamaño, midiendo [X] cm en su eje longitudinal, con severo adelgazamiento cortical.`
+* **Contusión / Trauma Renal:** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia de áreas de hipoatenuación focal e irregular (laceración/contusión), asociadas a estriación y aumento de la densidad de la grasa perirrenal adyacente por cambios traumáticos.`
+* **Pielonefritis:** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia de aumento de tamaño, presentando captación estriada y heterogénea del medio de contraste (nefrograma estriado), aunado a estriación de la grasa perirrenal adyacente.`
+* **Pielonefritis Enfisematosa / Absceso Renal:** `Riñones: [El Derecho/El Izquierdo] se observa heterogéneo por la presencia de una colección de paredes gruesas e irregulares que presenta imágenes hipodensas en rango de gas en su interior, asociada a severa estriación de la grasa perirrenal adyacente.`
+* **Retardo Nefrográfico:** `Riñones: Se observa heterogéneo por la presencia de una asimetría en la captación y eliminación del medio de contraste a expensas de un retardo en la fase [nefrográfica/excretora] del riñón [derecho/izquierdo].`
+* **Riñón Trasplantado:** `Riñones: Se observa a nivel de fosa ilíaca [derecha/izquierda] la presencia de riñón trasplantado con [adecuada/disminuida/retardada] captación del medio de contraste.`
+* **Agenesia Renal:** `Riñones: Ausencia de parénquima renal en fosa anatómica [derecha/izquierda] con ocupación de la misma por asas intestinales o tejido graso.`
+* **Ureterolitiasis:** `Uréteres: [El Derecho/El Izquierdo] se observa ocupado en su tercio [proximal/medio/distal] por una imagen hiperdensa con rango calcio, de bordes definidos, que condiciona dilatación proximal del sistema colector.`
+* **Catéter Doble J:** `Riñones y uréteres: Se observa imagen lineal hiperdensa correspondiente a catéter de derivación con extremo proximal en pelvis renal [derecha/izquierda] (formando un bucle) y extremo distal en topografía vesical.`
+* **Colección Muscular (Psoas):** `Retroperitoneo: Se observa un aumento del volumen del músculo psoas [derecho/izquierdo] secundario a la presencia de una imagen hipodensa de aspecto de colección en su interior, con paredes captantes al medio de contraste y bordes mal definidos.`
+* **LOE / Tumor Retroperitoneal:** `Retroperitoneo: Se evidencia imagen ocupante de espacio de aspecto sólido, de densidad heterogénea, con bordes [definidos/irregulares], midiendo [MEDIDAS], que condiciona compresión y desplazamiento de las estructuras vasculares y órganos adyacentes.`
+
+#### 4. TUBO DIGESTIVO, PERITONEO Y PARED ABDOMINAL
+* **Apendicitis Aguda:** `Tubo digestivo: Se identifica a nivel de fosa ilíaca derecha una estructura tubular de extremo ciego, que presenta aumento en su diámetro transverso mayor a 6 mm y realce de sus paredes tras la administración de contraste, asociada a estriación de la grasa adyacente [y presencia de apendicolito hiperdenso en su interior].`
+* **Apendagitis Epiploica:** `Cavidad abdominal: Se observa a nivel de [localización] imagen de densidad grasa, de forma ovalada, rodeada por un anillo hiperdenso con un punto denso central, asociada a cambios inflamatorios focales de la grasa adyacente.`
+* **Isquemia Mesentérica:** `Estructuras vasculares: Se observa defecto de repleción parcial/total en la luz de la [arteria/vena] mesentérica superior, asociado a dilatación de asas y neumatosis intestinal.`
+* **Invaginación Intestinal:** `Tubo digestivo: Se observa imagen con apariencia de "diana" o "pseudoriñón" en el plano axial, correspondiente a la introducción de un asa intestinal mesentérica dentro de un segmento distal.`
+* **Obstrucción Intestinal:** `Tubo digestivo: Se observa dilatación de asas intestinales [delgadas/gruesas] con formación de niveles hidroaéreos y punto de transición de calibre a nivel de [localización], con colapso de las asas distales.`
+* **Engrosamiento Parietal Gástrico:** `Tubo digestivo (Estómago): Se observa un engrosamiento parietal concéntrico de las paredes del [fundus/cuerpo/antro] gástrico, midiendo [X] mm de grosor, con alteración y borramiento de los pliegues mucosos.`
+* **Colitis:** `Intestino grueso: Se observa engrosamiento parietal y pérdida difusa de las haustras a nivel del colon [segmento], asociado a estriación de la grasa pericólica.`
+* **Engrosamiento Rectal / Proctitis:** `Intestino grueso: Se observa engrosamiento parietal concéntrico y regular a nivel del recto, asociado a cambios inflamatorios focales de la grasa mesorrectal adyacente.`
+* **Diverticulosis:** `Tubo digestivo: Se evidencian múltiples dilataciones saculares parietales a nivel del colon [segmento], sin signos de inflamación aguda pericólica.`
+* **Residuo/Constipación:** `Tubo digestivo: Se observa abundante material de residuo fecal a nivel del marco colónico con patrón en miga de pan.`
+* **Defecto Repleción:** `Tubo digestivo: Se identifica defecto de repleción del medio de contraste que adopta una forma pseudonodular a nivel del [fundus/cuerpo/antro] gástrico.`
+* **Lipomatosis:** `Cavidad abdominal: Se evidencia aumento del volumen del tejido graso [mesentérico/peritoneal] que desplaza las asas intestinales anteriores.`
+* **Linfadenopatías Abdominales:** `Cavidad abdominal: A nivel intraabdominal [mesentérico/retroperitoneal] se evidencia imagen hipodensa de forma ovalada con bordes definidos, con pérdida del hilio graso, midiendo la mayor [X] x [Y] cm.`
+* **Adenopatías Abdominales (Necróticas):** `Cavidad abdominal: Se evidencian múltiples imágenes nodulares de bordes irregulares y pérdida de su hilio graso a nivel [mesentérico/retroperitoneal/para aórtico], las cuales presentan un centro hipodenso sugerente de necrosis/degeneración quística.`
+* **Ganglio Mesentérico Calcificado:** `Cavidad abdominal: A nivel peritoneal se evidencia imagen hiperdensa de forma ovalada, bordes definidos y densidad cálcica pura.`
+* **Líquido Libre / Ascitis:** `Cavidad abdominal: Se evidencia ocupación por líquido libre a nivel de [fondo de saco de Douglas/hueco pélvico/espacios perihepáticos/correderas parietocólicas].`
+* **Neumoperitoneo:** `Cavidad abdominal: Se observa la presencia de imágenes hipodensas en rango de gas de localización extraluminal y subdiafragmática.`
+* **Chilaiditis:** `Cavidad abdominal: Se observa la interposición de un segmento colónico entre el contorno superior del hígado y el hemidiafragma derecho.`
+* **Catéter Tenckhoff:** `Cavidad abdominal: Se observa imagen hiperdensa tubular cuyo extremo distal se localiza en topografía pélvica [derecha/izquierda] correspondiente a catéter de diálisis peritoneal.`
+* **Hernia Inguinal/Umbilical:** `Pared abdominal: En región [inguinal/umbilical] se observa defecto fascial de la pared abdominal por el cual protruye contenido de [grasa peritoneal/asas intestinales].`
+* **Diástasis de Rectos:** `Pared abdominal: Se evidencia separación de los vientres musculares de los rectos abdominales midiendo [X] cm a nivel de la línea alba.`
+* **Sonda de Gastrostomía:** `Pared abdominal: Se evidencia solución de continuidad de la pared abdominal anterior con presencia de material tubular hiperdenso trans-parietal cuyo extremo distal (balón de retención) se localiza en la cámara gástrica.`
+* **Catéter de Drenaje Quirúrgico:** `Pared abdominal: Se evidencia solución de continuidad de los planos musculares y de la pared abdominal a nivel de [localización], a través del cual discurre imagen tubular hiperdensa cuyo extremo distal se localiza en la cavidad [abdominal/pélvica].`
+* **Hiperplasia Suprarrenal:** `Glándulas suprarrenales: Se observan aumentadas de tamaño de forma [bilateral/unilateral], conservando su morfología en Y o V invertida, sin evidencia de lesiones nodulares focales evidentes.`
+* **Nódulo / Adenoma Suprarrenal:** `Glándulas suprarrenales: Se evidencia a nivel de la glándula [derecha/izquierda] una imagen nodular de densidad [hipodensa/de partes blandas], de bordes definidos, que presenta [mínimo/ávido] realce tras la administración del medio de contraste, midiendo [MEDIDAS].`
+
+#### 5. PELVIS (Vejiga, Próstata y Órganos Reproductores)
+* **Engrosamiento Vesical:** `Vejiga urinaria: Se observa engrosamiento [difuso/irregular] de sus paredes midiendo [X] cm.`
+* **Masa Vesical (Tumoral):** `Vejiga urinaria: Se observa engrosamiento focal irregular de la pared que protruye hacia la luz, de densidad de partes blandas y con realce postcontraste.`
+* **Vejiga de Lucha:** `Vejiga urinaria: Se observa aumentada de tamaño midiendo [X] cm, con trabeculación parietal hipertrófica y aspecto en árbol de navidad.`
+* **Litiasis Vesical:** `Vejiga urinaria: Se observa en su interior imagen hiperdensa con rango calcio, con un coeficiente de atenuación de [X] UH, de bordes definidos y en posición declive.`
+* **Sonda Vesical (Foley):** `Vejiga urinaria: Se observa imagen hiperdensa de forma tubular a nivel de uretra que alcanza la topografía vesical, con imagen hipodensa redondeada en su extremo distal (balón de retención inflado).`
+* **Hiperplasia Prostática:** `Próstata: Se evidencia aumentada en forma y tamaño midiendo [X] x [Y] x [Z] cm con un volumen aproximado de [V] cm³, condicionando levantamiento del piso vesical.`
+* **Calcificaciones Prostáticas:** `Próstata: Se observan múltiples imágenes hiperdensas puntiformes de densidad cálcica distribuidas de forma dispersa en el parénquima glandular central.`
+* **Masa Ovárica/Uterina:** `Útero y Anexos: Se observa imagen ocupante de espacio de densidad [mixta/sólida], de bordes [definidos/irregulares], midiendo [MEDIDAS] a nivel de [localización].`
+* **Quiste de Ovario:** `Útero y Anexos: A nivel de anexo [derecho/izquierdo] se observa imagen hipodensa con coeficiente de atenuación líquido (4 UH), de forma ovalada y bordes definidos, sin septos ni nódulos murales.`
+* **Miomatosis Uterina:** `Útero y Anexos: Se evidencia matriz uterina heterogénea por la presencia de imágenes focales de densidad de partes blandas, de forma redondeada y bordes definidos a nivel del [fundus/cuerpo], midiendo la mayor [X] x [Y] cm [con/sin calcificaciones].`
+* **Masa Cervical Uterina:** `Útero y Anexos: Cérvix uterino se observa heterogéneo por la presencia de una distorsión de su arquitectura, con bordes lobulados e irregularidad de sus contornos, condicionando aumento de su diámetro transverso.`
+* **Dispositivo Intrauterino (DIU):** `Útero y Anexos: Se observa en topografía de la cavidad endometrial imagen hiperdensa lineal/en T correspondiente a dispositivo intrauterino.`
+* **Útero Didelfo/Septado:** `Útero y Anexos: Se observa alteración de la arquitectura uterina a expensas del cuerpo y el fundus, evidenciándose apariencia septada con separación de la cavidad endometrial.`
+* **Hidrocele:** `Pelvis: Se observa aumento de volumen de la bolsa escrotal [bilateral/derecha/izquierda] a expensas de ocupación por líquido libre de baja atenuación.`
+* **Flebolitos:** `Pelvis: Se observan imágenes hiperdensas de tonalidad cálcica con centro radiolúcido a nivel del hueco pélvico, adyacentes a las cadenas venosas.`

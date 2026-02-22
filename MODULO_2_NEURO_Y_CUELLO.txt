@@ -1,0 +1,109 @@
+# [MÓDULO 2: NEURORRADIOLOGÍA Y CUELLO (DEPURADO Y PURISTA)]
+
+#### 1. PARÉNQUIMA CEREBRAL Y EDEMAS (Lógica Segregada)
+* **Contusión / Hematoma Intraparenquimatoso:** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial [supratentorial/infratentorial] en [loc] de imagen hiperdensa rango hemático, de forma irregular y bordes mal definidos con halo hipodenso perilesional de aspecto digitiforme con unas medidas [A]x[B]x[C] cm y un volumen aproximado de [RESULTADO] cc, condicionando disminución de la visualización de los surcos adyacentes.`
+* **Contusión Hemorrágica (En Resolución):** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial [supratentorial/infratentorial] en [localización] de imagen hiperdensa en rango hemático de bordes mal definidos, asociada a disminución de su densidad central y retracción del edema perilesional.`
+* **Infarto con Transformación Hemorrágica:** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial [supratentorial/infratentorial] en [loc] de imagen hipodensa de bordes mal definidos (20 UH), aunado a imágenes hiperdensas en rango hemático en su interior, que en su conjunto condicionan disminución en la visualización de los surcos y cisuras adyacentes.`
+* **LOE Intraaxial (Tumor/Compleja):** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial [supratentorial/infratentorial] en [loc] de imagen de densidad mixta, de predominio sólido con imágenes hipodensas en su interior de aspecto necrótico o degeneración quística, de forma irregular y bordes mal definidos con unas medidas [A]x[B]x[C] cm y un volumen aproximado de [RESULTADO] cc, condicionando efecto de masa [y desviación de la línea media de X cm].`
+* **Isquemia Aguda (Signos Tempranos):** `Parénquima cerebral: Se observa heterogéneo por la presencia de pérdida de la diferenciación de la sustancia blanca y gris a nivel de [la región insular y núcleos de la base / localización] [derecha/izquierda].`
+* **Infarto / Isquemia (Agudo/Subagudo):** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial [supratentorial/infratentorial] en [loc] de imagen hipodensa de bordes mal definidos, con un coeficiente de atenuación de 20 UH, que condiciona disminución en la visualización de los surcos y cisuras adyacentes.`
+* **Infarto con Revascularización de Lujo:** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial [supratentorial/infratentorial] en [localización] de área hipodensa que asocia un aumento de la atenuación lineal de distribución giriforme cortical.`
+* **Infarto Lacunar (Crónico):** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial supratentorial en [localización] de imagen hipodensa, redondeada, isodensa al líquido cefalorraquídeo, con bordes definidos y medidas milimétricas.`
+* **Edema Vasogénico:** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel [loc] de una imagen hipodensa de aspecto digitiforme que diseca la sustancia blanca.`
+* **Edema Hemiencefálico:** `Parénquima cerebral: Se observa heterogéneo por la presencia de hipodensidad difusa que compromete el hemisferio [derecho/izquierdo] con pérdida de la diferenciación de la sustancia blanca y gris, asociado a borramiento de los surcos y cisuras ipsilaterales y efecto de masa.`
+* **Encefalomalacia (Secuela):** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial en [localización] de imagen hipodensa isodensa al líquido cefalorraquídeo, de bordes definidos, que condiciona retracción del parénquima y dilatación ex vacuo de los surcos adyacentes.`
+* **Porencefalia:** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial en [localización] de una cavidad quística isodensa al líquido cefalorraquídeo, la cual presenta comunicación directa con el sistema ventricular.`
+* **Leucoaraiosis / Daño Microvascular:** `Parénquima cerebral: Se observa heterogéneo por la presencia de hipodensidades confluentes a nivel periventricular y de corona radiata con pérdida de la diferenciación en la sustancia blanca y gris.`
+* **Migración Transependimaria:** `Parénquima cerebral: Se observa heterogéneo por la presencia de halo hipodenso de bordes mal definidos y disposición periventricular.`
+* **Calcificación Intraparenquimatosa (Focal):** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial en [loc] de imagen hiperdensa, de densidad cálcica, de forma irregular y bordes definidos.`
+* **Calcificaciones Intraparenquimatosas (Múltiples):** `Parénquima cerebral: Se observa heterogéneo por la presencia a nivel intraaxial [supratentorial/infratentorial] en [localización] de múltiples imágenes hiperdensas puntiformes en rango cálcico.`
+* **Calcificaciones Fisiológicas:** `Parénquima cerebral: Se observan calcificaciones de tipo fisiológico a nivel de [pineal/plexos coroides/hoz del cerebro/globos pálidos].`
+* **Espacios de Virchow-Robin:** `Parénquima cerebral: Se observa heterogéneo por la presencia de múltiples imágenes hipodensas milimétricas, isodensas al líquido cefalorraquídeo, localizadas a nivel de los ganglios basales y centro semioval [bilateral].`
+* **Hernia Paradójica (Síndrome del Trepanado):** `Parénquima cerebral: Se observa heterogéneo por la presencia de un hundimiento pronunciado del colgajo cutáneo a través del defecto óseo quirúrgico en [localización], condicionando compresión, deformidad y desplazamiento del parénquima subyacente hacia el interior.`
+* **Hernia Transcalvaria:** `Parénquima cerebral: Se observa heterogéneo por la presencia de severo edema y herniación del parénquima cerebral, el cual protruye hacia el exterior a través del defecto óseo quirúrgico a nivel de [localización].`
+
+#### 2. ESPACIOS EXTRAAXIALES, SURCOS Y VENTRÍCULOS
+* **Atrofia Cortical / Disminución Corteza:** `Surcos y cisuras: Se observa un aumento de la amplitud de los surcos y cisuras de la convexidad cerebral [alcanzando el nivel cortico-subcortical].`
+* **Edema Cerebral Difuso:** `Surcos y cisuras: Se observa disminución de la visualización de los surcos y cisuras de la convexidad [y cisternas de la base] de forma difusa.`
+* **Hemorragia Subaracnoidea:** `Surcos y cisuras: Se evidencia un aumento densimétrico lineal con rango hemático de los surcos y circunvoluciones de la convexidad [y cisternas de la base].`
+* **Hemorragia Subaracnoidea (Con Volcado):** `Espacio subaracnoideo: Se observa aumento densimétrico lineal en rango hemático a nivel de los surcos y cisuras de la convexidad, asociado a presencia de material hemático en el interior del sistema ventricular.`
+* **Hematoma Subdural:** `Espacio subdural: Se observa ocupado a nivel [loc] por imagen [laminar] [hiperdensa/mixta/hipodensa] de forma semilunar y bordes definidos [condicionando desviación de la línea media de X cm].`
+* **Hematoma Subdural (Complejo/Gas):** `Espacio subdural: Se observa ocupado a nivel [loc] por imagen de densidad mixta, de predominio hemático, de forma semilunar y bordes definidos, la cual presenta en su interior imágenes hipodensas en rango de gas de formas y tamaños variables.`
+* **Hematoma Epidural:** `Espacio epidural: Se evidencia una colección [hiperdensa/mixta] de morfología biconvexa a nivel extraaxial en [loc] con un coeficiente de atenuación de [X] UH [condicionando desviación de la línea media de X cm].`
+* **Colección Extraaxial (Higroma/Pseudomeningocele):** `Espacio extraaxial: Se evidencia a nivel [localización] imagen hipodensa con coeficiente de atenuación isodenso al líquido cefalorraquídeo, bien circunscrita, de forma ovalada, bordes definidos y paredes finas.`
+* **Neumoencéfalo:** `Espacio extraaxial: Se observa a nivel intracraneal la presencia de imágenes hipodensas en rango de gas, de formas y tamaños variables.`
+* **Calcificación Meníngea / Dural:** `Espacio extraaxial (Meninges): Se evidencia a nivel [localización] un engrosamiento dural que contiene en su interior imágenes hiperdensas en rango cálcico, de forma irregular y bordes definidos.`
+* **Ventriculomegalia:** `Sistema ventricular: Se evidencia dilatado de forma [global/segmentaria] [con un índice de Evans de X.XX].`
+* **Hemoventrículo:** `Sistema ventricular: Se observa ocupado en su interior por imágenes hiperdensas en rango hemático, de forma irregular y bordes mal definidos.`
+* **Neumoventrículo:** `Sistema ventricular: Se observa en su interior una imagen hipodensa en rango gas, de forma irregular.`
+* **Asimetría Ventricular:** `Sistema ventricular: Se observa asimetría de los ventrículos laterales a expensas de un aumento de volumen del [cuerno frontal/asta occipital] del ventrículo [derecho/izquierdo] como variante anatómica.`
+* **Cavum del Septum Pellucidum:** `Sistema ventricular: Se observa una cavidad que contiene líquido cefalorraquídeo interpuesta entre las prolongaciones frontales de los ventrículos laterales como variante anatómica.`
+* **Material de Derivación:** `Sistema ventricular: Se observa imagen hiperdensa en rango metal de forma tubular y bordes definidos correspondiente a catéter de derivación con extremo distal en [localización].`
+* **Mega Cisterna Magna:** `Espacio extraaxial: Se observa un aumento de la amplitud y dilatación focal de la cisterna magna con densidad de líquido cefalorraquídeo como variante anatómica.`
+* **Quiste Aracnoideo:** `Espacio subaracnoideo: Se evidencia a nivel extraaxial [loc] la presencia de imagen hipodensa rango líquido cefalorraquídeo (6 UH), de forma redondeada y bordes definidos [midiendo X cm].`
+
+#### 3. REGIÓN SELAR Y VASCULAR
+* **Aracnoidocele (General):** `Región selar: Se evidencia un defecto del diafragma selar que permite la protrusión del espacio subaracnoideo, ocupando parcialmente la silla turca y condicionando compresión y aplanamiento de la glándula hipófisis.`
+* **Aracnoidocele (Grado III):** `Región selar: Se evidencia un defecto del diafragma selar que permite la protrusión del espacio subaracnoideo ocupando aproximadamente el 75% de la silla turca, condicionando compresión de la hipófisis.`
+* **Lipoma Pareselar:** `Región selar: A nivel paracelar bilateral se evidencian imágenes hipodensas con un coeficiente de atenuación en rango graso (-68 UH), con bordes definidos y medidas milimétricas.`
+* **Lesión Selar (Masa):** `Región selar: Se observa imagen de predominio hiperdenso a nivel de la región selar con extensión al [extensión], de forma irregular y bordes mal definidos, que condiciona destrucción de la cortical ósea adyacente.`
+* **Arterioesclerosis:** `Estructuras vasculares: Se observan vasos sanguíneos arteriales de paredes calcificadas.`
+* **Dolicoectasia:** `Estructuras vasculares: Se observa elongación, tortuosidad y dilatación de [arteria basilar/carótidas intracavernosas].`
+* **Aneurisma / Ectasia Arterial Cerebral:** `Estructuras vasculares: Se observa una dilatación focal y aumento del diámetro transverso de la arteria [cerebral media/basilar/carótida interna] [derecha/izquierda], midiendo [X] mm.`
+* **Placa Ateromatosa:** `Estructuras vasculares: Se observa una ocupación parcial de la luz de [arteria afectada] por una imagen hiperdensa, en rango calcio, de forma irregular y bordes mal definidos.`
+* **Artería Basilar Hiperdensa:** `Estructuras vasculares: Se observa aumento de la densidad de forma espontánea a nivel de la arteria basilar.`
+* **Trombo Mural / Defecto Repleción:** `Estructuras vasculares: Se observa a nivel de [vaso afectado] una imagen hipodensa en rango partes blandas adherida a la pared del vaso sanguíneo que condiciona repleción focal del medio de contraste.`
+* **Yuguloectasia:** `Estructuras vasculares: Se observa marcado aumento del diámetro de la vena yugular [derecha/izquierda] respecto a la contralateral.`
+* **Clip Aneurismático:** `Estructuras vasculares: Se evidencia presencia de imagen hiperdensa de rango metal en topografía de la arteria [loc].`
+
+#### 4. ESTRUCTURAS ÓSEAS (CRÁNEO Y CARA)
+* **Hernia Amigdalina (Chiari I):** `Estructuras óseas (Fosa posterior): Se identifica a nivel infratentorial descenso de las amígdalas cerebelosas [X.X] cm por debajo del plano del foramen magnum, condicionando obliteración de la cisterna magna.`
+* **Fractura (Neuro/Cráneo):** `Estructuras óseas: Se observa solución de continuidad de la cortical ósea de manera [completa/fragmentada/deprimida] que compromete [lista de huesos afectados] [con esquirlas óseas asociadas].`
+* **Fractura Panfacial (LeFort/Compleja):** `Estructuras óseas: Se evidencia fractura completa a nivel de [huesos propios de la nariz, tabique nasal, celdillas etmoidales, pared anterior, medial y lateral del seno maxilar, piso de órbita, lámina papirácea, pterigoideas, etc.].`
+* **Fractura Diastática (Suturas):** `Estructuras óseas: Se observa una separación anormal y ensanchamiento a nivel de la sutura [coronal/sagital/lamboidea] [bilateral/derecha/izquierda], indicativo de fractura diastática.`
+* **Hiperostosis:** `Estructuras óseas: Se evidencia aumento del grosor del hueso [frontal/localización] a expensas de la diploe con bordes internos lisos.`
+* **Hiperostosis Frontal Interna:** `Estructuras óseas (Calota): Se evidencia un aumento del grosor y de la densidad ósea a nivel del hueso frontal [bilateral], a expensas de la tabla interna, con bordes de aspecto nodular o irregular que respetan la línea media.`
+* **Disminución Densidad Ósea:** `Estructuras óseas: Se evidencia disminución de la mineralización ósea y aumento de sus trabeculaciones.`
+* **Megaapófisis Estiloides:** `Estructuras óseas: Se observan apófisis estiloides de forma [bilateral/derecha/izquierda] aumentadas en longitud, midiendo la mayor [X.X] cm.`
+* **Trepanostomía:** `Estructuras óseas: Se observa defecto óseo de forma circular correspondiente a agujero de trepanación a nivel [localización].`
+* **Postquirúrgico (Craneotomía/Craneoplastía):** `Estructuras óseas: Se observan cambios postquirúrgicos caracterizados por [defecto óseo por craneotomía/craneoplastía] a nivel [localización], asociados a [material de osteosíntesis tipo malla/grapas/catéter de drenaje].`
+* **Enostosis / Osteoma:** `Estructuras óseas: Se observa a nivel de [localización] una imagen hiperdensa de densidad cálcica, de bordes definidos, que mide [MEDIDA].`
+* **Dismetría Pterigoides:** `Estructuras óseas (Base de cráneo): Se observa asimetría por diferencia en la altura y longitud de las apófisis pterigoides.`
+* **Artrosis Atlanto-Axial:** `Estructuras óseas (Unión craneocervical): Se observa disminución del espacio articular atlanto-axial asociado a esclerosis subcondral de sus bordes.`
+
+#### 5. CARA Y CUELLO (SENOS, ÓRBITAS, MASTOIDES)
+* **Sinusitis / Engrosamiento Mucoso:** `Senos paranasales: Se observa un engrosamiento de la mucosa de forma difusa que ocupa [el seno/los senos] [afectados].`
+* **Pansinusitis:** `Senos paranasales: Se evidencia un engrosamiento mucoso de forma difusa que ocupa todos los senos nasocraneanos.`
+* **Sinusitis Complicada / Fúngica:** `Senos paranasales: Se evidencia engrosamiento mucoso difuso del seno [afectado], asociado a engrosamiento esclerótico de sus paredes óseas y presencia de calcificaciones e imágenes hipodensas en rango gas en su interior.`
+* **Sinusitis Invasiva / Destructiva:** `Senos paranasales: Se observa ocupación y engrosamiento mucoso heterogéneo del seno [afectado], asociado a pérdida de la arquitectura normal y destrucción de sus paredes óseas, con extensión hacia [fosas nasales/órbita/tejidos blandos adyacentes].`
+* **Hemoseno:** `Senos paranasales: Se observa ocupación parcial del seno [afectado] por imagen hiperdensa en rango hemático, la cual forma un nivel hidroaéreo.`
+* **Panhemoseno:** `Senos paranasales: Se observa a nivel de los senos etmoidal, esfenoidal, frontal y maxilar bilateral ocupación parcial de los mismos por imagen hiperdensa rango sangre de forma difusa que forma nivel hidroaéreo.`
+* **Poliposis:** `Senos paranasales: Se observa engrosamiento mucoso a nivel nasosinusal de aspecto polipoide.`
+* **Pólipo / Quiste Mucoso:** `Senos paranasales: A nivel del seno [maxilar/etc.] se evidencia imagen hipodensa de forma sacular con un coeficiente de atenuación de 28 UH, midiendo [Y] x [Z] cm.`
+* **Agenesia / Hipoplasia del Seno:** `Senos paranasales: Se observa [ausencia de neumatización / disminución en la neumatización y tamaño] del seno [frontal/maxilar] [derecho/izquierdo].`
+* **Hiperneumatización Sinusal:** `Senos paranasales: Se observa aumento del volumen y de la neumatización del seno [frontal/esfenoidal] como variante anatómica.`
+* **Concha Bullosa:** `Senos paranasales: Se evidencia neumatización del cornete nasal [medio/superior] [derecho/izquierdo/bilateral] como variante anatómica.`
+* **Dismorfia Septal:** `Tabique nasal: Se observa desviado a convexidad [derecha/izquierda] a nivel del área [III/IV] de Cottle [con espolón óseo no contactante].`
+* **Defecto Septal:** `Tabique nasal: Se observa ausencia [de la cortical ósea / de la porción cartilaginosa] a nivel del tabique nasal.`
+* **Hipertrofia de Cornetes:** `Fosas nasales: Se observa un aumento del grosor de la mucosa a nivel de los cornetes nasales [inferiores/medios] [bilaterales/derecho/izquierdo], condicionando disminución de la amplitud de la vía aérea.`
+* **Proptosis:** `Órbita: Se observa un aumento de la distancia a la línea intercigomática mayor de 2mm del globo [derecho/izquierdo] respecto al contralateral.`
+* **Neumoorbita:** `Órbita: Se observa la presencia de imágenes hipodensas en rango de gas de formas y tamaños variables a nivel de la cavidad orbitaria.`
+* **Hemovítreo / Hemorragia Ocular:** `Órbita (Globo ocular): Se observa en la cámara posterior del globo ocular [izquierdo/derecho] una imagen hiperdensa en rango hemático de forma semilunar.`
+* **Luxación de Cristalino:** `Órbita (Globo ocular): Se observa alteración de la anatomía del globo ocular [derecho/izquierdo] caracterizada por pérdida de la alineación y desplazamiento del cristalino de su topografía habitual.`
+* **Cataratas:** `Globos oculares: Se observa disminución de la densidad del cristalino de forma [bilateral/derecha/izquierda].`
+* **Calcificaciones Esclerales:** `Globos oculares: Se observan imágenes hiperdensas puntiformes de densidad cálcica a nivel de la esclera del globo ocular [derecho/izquierdo/bilateral].`
+* **Tapón de Cerumen / Ocupación CAE:** `Conducto auditivo externo: Se observa ocupación parcial de su luz por material [hipodenso/hiperdenso] de forma difusa a nivel [derecho/izquierdo/bilateral].`
+* **Mastoiditis / Hemomastoides:** `Celdillas mastoideas: Se observan ocupadas parcialmente por imagen hiperdensa de forma difusa [en rango hemático].`
+* **Hipoplasia Mastoidea:** `Celdillas mastoideas: Se observa una disminución del volumen y de la neumatización de las celdillas mastoideas de forma [bilateral/derecha/izquierda].`
+
+#### 6. PARTES BLANDAS (CUELLO Y ROSTRO)
+* **Hematoma Subgaleal:** `Partes blandas: Se evidencia a nivel de espacio subgaleal en [localización] una imagen hiperdensa en rango hemático de forma semilunar.`
+* **Edema / Engrosamiento Subgaleal:** `Partes blandas: Se evidencia un aumento del grosor y de la densidad de los tejidos blandos epicraneales a nivel [localización].`
+* **Hematoma Partes Blandas:** `Partes blandas: Se evidencia a nivel [facial/periorbital/loc] una imagen hiperdensa en rango hemático.`
+* **Enfisema Extendido (Cuello/Cara):** `Partes blandas: Se observan imágenes hipodensas en rango de gas, de formas y tamaños variables que disecan los planos tisulares blandos extendiéndose a los espacios [supraclavicular/cervical].`
+* **Celulitis / Infección de Espacios Profundos:** `Partes blandas: Se observa un aumento difuso del grosor y de la densidad de los tejidos blandos a nivel del espacio [submandibular/masticador/faríngeo], asociado a imágenes hipodensas en rango de gas que disecan los planos musculares, sin condicionar compromiso u obliteración de la vía aérea.`
+* **Parotiditis / Aumento Parotídeo:** `Glándulas parótidas: Se observa un aumento difuso de tamaño y volumen de la glándula [derecha/izquierda/bilateral], de densidad heterogénea [asociada a estriación de la grasa adyacente].`
+* **Calcificaciones Parotídeas / Amígdalas:** `[Glándulas parótidas / Amígdalas palatinas]: Se observan heterogéneas por la presencia en su interior de múltiples imágenes hiperdensas rango calcio, puntiformes y de bordes definidos.`
+* **Nódulo Tiroideo:** `Glándula tiroides: Se observan múltiples imágenes hiperdensas en rango calcio, de formas nodulares y bordes definidos a nivel del lóbulo [derecho/izquierdo] midiendo la mayor [X] x [Y] cm.`
+* **Bocio:** `Glándula tiroides: Se observa un aumento de tamaño de forma y volumen del órgano.`
+* **LOE / Masa Cervical (Master):** `Partes blandas: Se observa a nivel de [localización/tiroides/etc] una imagen de aspecto sólido, de densidad heterogénea por probables áreas de necrosis o degeneración quística en su interior, de forma irregular y bordes mal definidos, midiendo [MEDIDAS].`

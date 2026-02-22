@@ -1,0 +1,64 @@
+# [MÓDULO 5: MUSCULOESQUELÉTICO Y TRAUMA (DEPURADO Y PURISTA)]
+
+#### 1. FRACTURAS, TRAUMA Y OSTEOSÍNTESIS
+* **Fractura (General):** `Estructuras óseas: Se observa solución de continuidad de la cortical ósea a nivel de [HUESO] [con/sin desplazamiento de fragmentos].`
+* **Fractura Conminuta:** `Estructuras óseas: Se observa solución de continuidad de la cortical ósea de manera conminuta a nivel de [HUESO], con presencia de múltiples fragmentos óseos libres [intra/extraarticulares].`
+* **Fractura Avulsiva:** `Estructuras óseas: Se observa solución de continuidad de la cortical ósea de tipo avulsiva a nivel de [localización], con retracción y leve desplazamiento del fragmento óseo libre.`
+* **Fractura Antigua (Callo Óseo):** `Estructuras óseas: Se evidencia alteración de la morfología ósea caracterizada por engrosamiento cortical focal y esclerosis, sin línea de fractura aguda visible, a nivel de [localización].`
+* **Mala Unión / No Unión:** `Estructuras óseas: Se observa engrosamiento, pérdida de la continuidad y alteración de la arquitectura normal de la cortical ósea a nivel de [localización].`
+* **Túneles Óseos (Retiro de Material):** `Estructuras óseas: Se observan imágenes hipodensas tubulares que atraviesan la cortical ósea de manera completa a nivel de [localización], por antecedente quirúrgico.`
+* **Material de Osteosíntesis (General):** `Estructuras óseas: Se observa imagen hiperdensa de tonalidad metálica, de forma irregular y bordes bien definidos, correspondiente a material de fijación [tipo placa/tornillos/clavo intramedular].`
+
+#### 2. CIRUGÍA ORTOPÉDICA MAYOR Y PRÓTESIS
+* **Reemplazo Articular (Prótesis):** `Estructuras óseas: Se evidencia ausencia quirúrgica de [estructura ósea anatómica], la cual se encuentra reemplazada por material hiperdenso en rango metálico correspondiente a componente protésico.`
+* **Luxación de Prótesis:** `Articulaciones: Se observa a nivel de la articulación [coxofemoral/glenohumeral] [izquierda/derecha] una pérdida de la congruencia y continuidad anatómica entre las superficies óseas y el componente protésico.`
+* **Material de Artrodesis (Columna):** `Estructuras óseas (Columna): Se evidencian a nivel de [Niveles] imágenes hiperdensas de tonalidad metálica correspondientes a material de fijación tipo barras estabilizadoras y tornillos transpediculares.`
+* **Laminectomía:** `Estructuras óseas (Columna): Se observa ausencia quirúrgica de los elementos óseos posteriores a nivel de [Niveles].`
+
+#### 3. COLUMNA VERTEBRAL (Degenerativo y Estructural)
+* **Osteocondrosis / Espondiloartrosis:** `Estructuras óseas: Se observan excrecencias óseas marginales de los bordes de los cuerpos vertebrales que [forman/no forman] puentes, asociadas a esclerosis de los platillos a nivel de la columna [SEGMENTO].`
+* **Columna en Caña de Bambú:** `Estructuras óseas: Se observan excrecencias óseas marginales de los bordes ventrales de los cuerpos vertebrales que forman puentes continuos con bordes escleróticos, otorgando un aspecto en caña de bambú.`
+* **Fractura por Compresión / Acuñamiento:** `Estructuras óseas: Se evidencia disminución de la altura del cuerpo vertebral [con acuñamiento anterior] a nivel de [NIVEL].`
+* **Fractura por Insuficiencia (Platillo):** `Estructuras óseas: Se evidencia irregularidad, esclerosis y hundimiento focal de la cortical ósea a nivel del platillo [superior/inferior] del cuerpo vertebral [NIVEL], sin evidente pérdida significativa de su altura global.`
+* **Espondilolistesis (Antero/Retrolistesis):** `Estructuras óseas: Se observa alteración de la alineación del muro posterior vertebral caracterizada por el desplazamiento [anterior/posterior] del cuerpo vertebral de [NIVEL] sobre [NIVEL], correspondiente a grado [I/II/III/IV].`
+* **Nódulos de Schmorl:** `Estructuras óseas: Se evidencian protrusiones focales del núcleo pulposo hacia los platillos vertebrales inferiores y superiores.`
+* **Abombamiento Discal:** `Estructuras óseas: Se evidencian abombamientos discales difusos que sobrepasan los márgenes de los platillos vertebrales en los niveles [NIVELES].`
+* **Fenómeno de Vacío (Disco):** `Estructuras óseas: Se evidencia hipodensidad en rango de gas a nivel del espacio intervertebral.`
+* **Hemangioma Vertebral:** `Estructuras óseas: Se observa a nivel del cuerpo vertebral de [NIVEL] una imagen hipodensa con trabeculado óseo vertical engrosado (signo de la falda de lunares o sal y pimienta), sin insuflación de la cortical ni compromiso de partes blandas adyacentes.`
+* **Erosiones Vertebrales:** `Estructuras óseas: Se observan defectos focales y periféricos de la cortical ósea con aumento de la densidad esclerótica adyacente.`
+* **Sinostosis Vertebral:** `Estructuras óseas: Se observa sinostosis ósea completa de los cuerpos vertebrales [NIVELES], caracterizada por la obliteración del espacio intervertebral y continuidad de las plataformas óseas.`
+* **Escoliosis:** `Estructuras óseas: Se observa [discreta/marcada] desviación de la columna [segmento] a convexidad [izquierda/derecha] en el plano coronal.`
+* **Hipercifosis:** `Estructuras óseas: Se observa una acentuación de la curvatura de convexidad posterior en el plano sagital a nivel de la columna [segmento].`
+* **Rectificación:** `Estructuras óseas: Se observa pérdida de la curvatura fisiológica de la columna [cervical/lumbar] en el plano sagital.`
+* **Inversión de la Lordosis:** `Estructuras óseas: Se observa pérdida de la lordosis fisiológica de la columna [cervical/lumbar] con tendencia a la inversión de la curvatura en el plano sagital.`
+* **Sacralización (L5):** `Estructuras óseas: Se identifica fusión de las apófisis transversas de la última vértebra lumbar con el sacro del lado [izquierdo/derecho] como variante anatómica (Castelvi [X]).`
+* **Vértebra en H:** `Estructuras óseas: Se observa morfología en H de los cuerpos vertebrales de la columna [dorsal/lumbar], dispuesta como hundimiento central de los platillos superiores e inferiores.`
+* **Defecto del Arco Posterior C1:** `Estructuras óseas (Columna cervical): Se observa un defecto de fusión de la cortical ósea a nivel del arco posterior de la primera vértebra cervical (C1) como variante anatómica.`
+* **Neumorraquis:** `Estructuras óseas (Canal medular): Se visualizan imágenes hipodensas en rango de gas en el interior del canal medular a nivel de [localización].`
+
+#### 4. PATOLOGÍA ARTICULAR Y LESIONES ÓSEAS
+* **Cambios Degenerativos Articulares (Artrosis):** `Articulaciones: Se observan excrecencias óseas marginales de bordes escleróticos, quistes subcondrales y disminución del espacio articular a nivel de [articulación].`
+* **Luxación Articular (Nativa):** `Articulaciones: Se observa pérdida completa de la relación anatómica y alineación de las superficies articulares a nivel de la articulación [temporomandibular / glenohumeral / otra] [derecha/izquierda].`
+* **Diástasis Articular (Pelvis):** `Articulaciones (Pelvis): Se observa una separación anormal y pérdida de la congruencia anatómica de la [sínfisis del pubis / articulación sacroilíaca] [derecha/izquierda], midiendo el defecto de separación [X] cm.`
+* **Derrame Articular:** `Articulaciones: Se observa distensión de la cápsula articular de [articulación] por la presencia de imagen hipodensa en rango líquido que desplaza las almohadillas grasas.`
+* **Hemartrosis:** `Articulaciones: Se observa aumento de volumen y distensión de la cápsula articular de [articulación] por la presencia de colección hiperdensa en rango hemático en su interior.`
+* **Fenómeno de Vacío (Articular):** `Articulaciones: Se evidencia hipodensidad en rango de gas de forma irregular a nivel del espacio articular de [articulación].`
+* **Condrocalcinosis:** `Articulaciones: Se observan imágenes hiperdensas en rango calcio a nivel del espacio articular de [articulación] / espacio intervertebral [nivel].`
+* **Sacroileítis:** `Articulaciones: La articulación sacroilíaca [bilateral/derecha/izquierda] se evidencia con disminución de su espacio articular, esclerosis subcondral de sus bordes e irregularidad cortical.`
+* **Necrosis Avascular:** `Estructuras óseas: Se observa alteración de la morfología de la cabeza [femoral/humeral] [derecha/izquierda] caracterizada por pérdida de la convexidad, esclerosis medular heterogénea y defectos erosivos subcondrales.`
+* **Infarto Óseo:** `Estructuras óseas: Se observa a nivel del espacio medular de [HUESO] una imagen de densidad esclerótica con morfología anular o serpiginosa y bordes definidos.`
+* **Lesión Lítica / Blástica (Múltiple):** `Estructuras óseas: Se observan múltiples lesiones [líticas (con disminución focal de la densidad y rotura cortical) / blásticas (escleróticas)] a múltiples niveles del esqueleto axial y apendicular.`
+* **Lesión Lítica Expansiva:** `Estructuras óseas: Se evidencia a nivel de [localización] una imagen hipodensa de aspecto lítico, de bordes [definidos/irregulares], que condiciona adelgazamiento, insuflación y alteración morfológica de la cortical ósea adyacente.`
+* **Quiste Óseo (Benigno):** `Estructuras óseas: Se observa a nivel de [localización] imagen hipodensa de forma redondeada y bordes definidos, presentando esclerosis perilesional adyacente, sin disrupción ni insuflación de la cortical.`
+* **Neumoquiste Óseo:** `Estructuras óseas: Se evidencia a nivel de [localización] imagen hipodensa en rango de gas, de forma redondeada y bordes definidos en el interior de la medular ósea.`
+* **Lipoma Intraóseo:** `Estructuras óseas: A nivel de [localización] se evidencia imagen hipodensa de forma ovalada con bordes bien definidos, un halo perilesional esclerótico y coeficiente de atenuación en rango graso.`
+* **Enostosis / Islote Óseo:** `Estructuras óseas: Se evidencia a nivel de [localización] imagen hiperdensa en rango calcio, de bordes regulares y forma ovoidea, respetando la cortical ósea.`
+
+#### 5. PARTES BLANDAS (Trauma, Dispositivos y Cuerpos Extraños)
+* **Proyectil / Cuerpo Extraño / Arma de Fuego:** `Partes blandas: Se evidencia imagen hiperdensa de forma ovalada en rango metálico a nivel de [localización], asociada a imágenes hipodensas en rango de gas que disecan los planos musculares adyacentes.`
+* **Material Férula / Yeso:** `Partes blandas: Se evidencia imagen hiperdensa de tonalidad cálcica, de forma lineal y bordes definidos, periférica a los tejidos blandos, correspondiente a material de fijación externa.`
+* **Grapas / Suturas Cutáneas:** `Partes blandas: Se observan imágenes de densidad metálica de forma lineal/en U a nivel del tejido subcutáneo, correspondientes a material de sutura.`
+* **Cicatriz (Partes Blandas):** `Partes blandas: Se observa aumento de la densidad focal con tractos densos a nivel del tejido celular subcutáneo en [localización].`
+* **Estriación Grasa Subcutánea:** `Partes blandas: Se evidencia estriación y aumento de la densidad del tejido celular subcutáneo a nivel de [localización].`
+* **Calcificación Partes Blandas:** `Partes blandas: Se evidencia a nivel de [localización] imagen hiperdensa redondeada en rango cálcico, de bordes definidos, midiendo [MEDIDAS].`
+* **Laceración Cutánea / Herida Abierta:** `Partes blandas: Se evidencia un defecto y solución de continuidad de la piel y del tejido celular subcutáneo a nivel de [localización], con alteración de la arquitectura tisular adyacente.`
