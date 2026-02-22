@@ -1,21 +1,22 @@
 import streamlit as st
 import google.generativeai as genai
-import os
 
 # --- CONFIGURACIÓN DE LA PÁGINA ---
 st.set_page_config(page_title="Generador TC Purista", page_icon="🩻", layout="centered")
 
-# --- TITULO E INTERFAZ ---
-st.title("🩻 Generador de Reportes TC - Estilo Purista")
-st.markdown("Ingresa los diagnósticos y presiona generar. El sistema aplicará el Motor Lógico y los 4 Módulos Anatómicos.")
+# --- TITULO ---
+st.title("🩻 Generador TC - Estilo Purista")
+st.markdown("Ingresa los diagnósticos y presiona generar.")
 
-# --- CONFIGURACIÓN DE LA API KEY ---
-# Streamlit leerá la llave secreta desde su configuración
-api_key = st.secrets["GEMINI_API_KEY"]
-genai.configure(api_key=api_key)
+# --- API KEY ---
+try:
+    api_key = st.secrets["GEMINI_API_KEY"]
+    genai.configure(api_key=api_key)
+except Exception:
+    st.error("Error: No se encontró la API Key en los Secrets de Streamlit.")
 
-# --- FUNCIÓN PARA CARGAR LOS MÓDULOS ---
-@st.cache_data # Esto hace que los archivos se lean una sola vez para que sea súper rápido
+# --- CARGAR MÓDULOS ---
+@st.cache_data
 def load_modules():
     modulos = ""
     archivos = [
@@ -30,34 +31,36 @@ def load_modules():
             with open(archivo, "r", encoding="utf-8") as f:
                 modulos += f"\n\n{f.read()}"
         except FileNotFoundError:
-            st.warning(f"No se encontró el archivo: {archivo}")
+            st.warning(f"No se encontró: {archivo}")
     return modulos
 
-# --- INICIALIZAR EL MODELO ---
-texto_base_datos = load_modules()
+# --- INICIALIZAR EL MOTOR ---
+contexto_completo = load_modules()
 
-# Usamos la versión base infalible sin especificar subversiones
-model = genai.GenerativeModel(model_name="gemini-pro")
+# Usamos 'gemini-1.5-flash', que es el estándar actual más estable y rápido
+model = genai.GenerativeModel(
+    model_name="gemini-1.5-flash",
+    system_instruction=contexto_completo
+)
 
-# --- CAJA DE TEXTO PARA EL USUARIO ---
-input_usuario = st.text_area("Diagnósticos de entrada:", height=150, placeholder="Ej: TCE, hematoma subdural derecho, normal...")
+# --- INTERFAZ DE USUARIO ---
+input_usuario = st.text_area("Diagnósticos (Input):", height=150, placeholder="Ej: TCE, hematoma subdural derecho...")
 
 if st.button("Generar Reporte", type="primary"):
-    if input_usuario.strip() == "":
-        st.error("Por favor, ingresa al menos un diagnóstico.")
+    if not input_usuario.strip():
+        st.error("Escribe algo para procesar.")
     else:
-        with st.spinner("Procesando reporte con criterios puristas..."):
+        with st.spinner("Procesando con rigor radiológico..."):
             try:
-                # Unimos el "Cerebro" (los 5 módulos) con lo que escribiste en la caja
-                prompt_maestro = f"{texto_base_datos}\n\n[INPUT DEL USUARIO]\n{input_usuario}"
+                # Generar contenido
+                response = model.generate_content(input_usuario)
                 
-                # Enviamos todo al modelo
-                respuesta = model.generate_content(prompt_maestro)
-                
-                st.success("¡Reporte generado con éxito!")
-                
-                # Mostramos el resultado en una caja de texto
-                st.text_area("Cuerpo del Informe:", value=respuesta.text, height=300)
+                # Resultado
+                st.success("¡Reporte listo!")
+                st.text_area("Cuerpo del Informe (Output):", value=response.text, height=350)
+                st.info("Copia el texto de arriba directamente a tu sistema de informes.")
                 
             except Exception as e:
-                st.error(f"Ocurrió un error: {e}")
+                # Si falla el 1.5 Flash por alguna razón de región, probamos el nombre alternativo
+                st.error(f"Error técnico: {e}")
+                st.info("Sugerencia: Verifica que tu API Key sea válida en Google AI Studio.")
